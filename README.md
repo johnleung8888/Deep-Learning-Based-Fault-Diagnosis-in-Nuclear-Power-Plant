@@ -1,5 +1,6 @@
 # Deep-Learning-Based-Fault-Diagnosis-in-Nuclear-Power-Plant
 
+## CITY UNIVERSITY OF HONG KONG 
 ## DEPARTMENT OF MECHANICAL ENGINEERING - FINAL YEAR PROJECT REPORT
 Student Name: Leung Ming Haang
 
